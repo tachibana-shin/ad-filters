@@ -1,0 +1,78 @@
+webnots.com##kbd:nth-child(18) > span:nth-child(2) > div:nth-child(2) > div:last-child
+webnots.com##kbd:nth-child(18) > div:nth-child(3)
+webnots.com##kbd:nth-child(18) > span:nth-child(2) > div:nth-child(2) > div:nth-child(2)
+weblinhtinh.xyz###myModal > a:first-child > img
+weblinhtinh.xyz##div.container:nth-child(5) > div.row > div.vuanhngoc-model-bg:nth-child(21)
+weblinhtinh.xyz###hide_float_right > a
+weblinhtinh.xyz###float_content_right
+weblinhtinh.xyz##div.container:nth-child(5) > div.row > div.vuanhngoc-model-bg:nth-child(18)
+dongphimmoi.com###footer > div.cash-fish-pc:nth-child(4) > div.cash-fish-pc-content.container
+animevietsub.tv###pc-catfixx > div.pc_catfix_adv:nth-child(2) > a > img
+animevietsub.tv###Tp-Wp > div:nth-child(14) > div > a > img
+animevietsub.tv###Tp-Wp > div:nth-child(8) > div > a > img
+animevietsub.tv###hide_catfix > a
+animevietsub.tv###watch-block > center:last-child
+animevietsub.tv###media-player div.jw-wrapper.jw-reset div.jw-logo.jw-logo-top-right.jw-reset
+animevi.net###modal-block-ads-msg
+animevi.net##div.modal-backdrop.fade.in:nth-child(23)
+gvnvh18.com###contentme > a:nth-child(3) > img.alignnone.size-full.wp-image-165
+gvnvh18.com###contentme > a:nth-child(2) > img.aligncenter.size-full.wp-image-190
+gvnvh18.com##div.sticky_bottom:nth-child(107) > div.ads_sticky_bottom:last-child > a > img.aligncenter.size-full.wp-image-190
+gvnvh18.com###animated-thumbnail > div:nth-child(3) > div:last-child
+animevietsub.tv###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.Dvr-300:nth-child(2) > div > center > a:last-child > img
+animevietsub.tv###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.announcement:first-child
+animevietsub.tv###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.bellow_ads_player:nth-child(3) > div:first-child
+animevietsub.tv###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.bellow_ads_player:nth-child(3)
+animevietsub.tv###hide_catfix > a
+hentaiz.top##div.position-fixed.w-100.bottom-0:nth-child(4) > div.text-center:last-child > div:first-child > div.d-none.d-lg-block:last-child
+hentaiz.top##footer.text-white.text-center.text-lg-left.shadow-1-strong.position-relative:nth-child(3) > div.text-center.px-1.py-3:last-child
+hentaiz.top##div.position-fixed.w-100.bottom-0:nth-child(5) > div.text-center:last-child > div:first-child > div.d-lg-none:first-child
+hentaiz.top##div.position-fixed.w-100.bottom-0:nth-child(5) > div.text-center:last-child > div:last-child > div.d-lg-none
+vuianime.tv###media-player > div.jw-wrapper.jw-reset:nth-child(2) > div.jw-logo.jw-logo-top-right.jw-reset:nth-child(10)
+hentaiz.top##div.container-fluid.py-3:nth-child(2) > div.row.gx-0.gx-lg-3.gy-3.gy-lg-0 > div.col-12.col-lg-8:first-child > div.text-center.mb-2:first-child > div.position-relative.mb-2:first-child > div.text-center > div:first-child > div.d-none.d-lg-block:last-child
+hentaiz.top##div.position-fixed.w-100.bottom-0:nth-child(5) > div.text-center:last-child > div:last-child > div.d-none.d-lg-block:last-child
+hentaiz.top##img[src^="/images/spon/"]
+hentaiz.top##div.position-fixed .btn-close-banner
+##.TnITTtw-fp-collapsed-button
+##.TnITTtw-mate-fp-bar
+htt530222639.wordpress.com###marketingbar
+ja.wikipedia.org##div.TnITTtw-fp-collapsed-button
+animevietsub.tv##.Ads
+truyenconect.com###dropdownMenuButton
+nettruyenone.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2)
+nettruyenone.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.row:last-child
+nettruyenone.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.text-center.mrt5.mrb5:first-child
+nettruyenmoi.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.text-center.mrt5.mrb5:first-child
+gvnvh18.com###g207
+gvnvh18.com##g207
+truyenqqpro.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube:nth-child(2) > iframe
+truyenqqpro.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube
+gvnvh18.com###contentme > a:nth-child(2)[href="https://tdtc.info"]
+animevietsub.tv##img.post-ratings-image
+vuighe.net###balloon
+vuighe.net##div.player-container:nth-child(2) > div.masthead.banner-masthead:first-child
+animevietsub.cc##.Ads
+animevietsub.cc###pc-catfixx
+animevietsub.cc##.Dvr-300
+animevietsub.cc##img.post-ratings-image
+animevietsub.cc###invideo_wrapper
+animevietsub.cc###watch-block > center:last-child
+animevietsub.cc##.announcement
+hentaiz.cc##div.position-fixed.w-100.bottom-0[style="background-color: rgba(0, 0, 0, 0.1); z-index: 1010"]
+film365.org##div#wrapper.container > div.right-content > div.most-view.block:first-of-type
+@@||lh3.googleusercontent.com^$domain=animevietsub.cc
+
+m.blogtruyen.vn##img[src="https://img.blogtruyen.vn/sharex/i9-middlechap.jpg"]
+blogtruyen.vn##img[src="https://img.blogtruyen.vn/sharex/i9-middlechap.jpg"]
+m.blogtruyen.vn##.qc-inner
+blogtruyen.vn##.qc-inner
+blogtruyen.vn###mfloat
+m.blogtruyen.vn###mfloat
+truyenqqpro.com###ads_mobile
+truyenqqpro.com##.mobile-banner
+animevietsub.cc###invideo_wrapper
+animevietsub.cc##.Adss
+animevietsub.cc###mobile-catfixx
+||static.amcdn.vn/*
+||augu3yhd485st.com*
+augu3yhd485st.com/*
