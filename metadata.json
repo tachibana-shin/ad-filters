@@ -1,0 +1,16 @@
+{
+  "filterId": 1,
+  "name": "Base filter by 橘しん",
+  "description": "Easy filters block ads and notification other website not include in main filter",
+  "timeAdded": 1664970239921,
+  "homepage": "https://github.com/tachibana-shin/ad-filters",
+  "displayNumber": 1,
+  "groupId": 1,
+  "tags": [
+    "purpose:ads",
+    "reference:101",
+    "recommended",
+    "reference:2"
+  ],
+  "trustLevel": "full"
+}
