@@ -76,3 +76,7 @@ animevietsub.cc###mobile-catfixx
 ||static.amcdn.vn/*
 ||augu3yhd485st.com*
 augu3yhd485st.com/*
+
+truyenqqpro.com###ads_info
+
+truyenqqpro.com###page_999
