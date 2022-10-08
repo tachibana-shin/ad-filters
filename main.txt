@@ -80,3 +80,8 @@ augu3yhd485st.com/*
 truyenqqpro.com###ads_info
 
 truyenqqpro.com###page_999
+
+#saytruyen.net
+saytruyen.net##.c-ads
+saytruyen.net##.ads-popup
+saytruyen.net##.catfish
