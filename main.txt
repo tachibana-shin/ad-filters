@@ -86,5 +86,5 @@ saytruyen.net##.c-ads
 saytruyen.net##.ads-popup
 saytruyen.net##.catfish
 
-a[href^="https://i9bet"]
-a[href^="https://www.i9bet"]
+##a[href^="https://i9bet"]
+##a[href^="https://www.i9bet"]
