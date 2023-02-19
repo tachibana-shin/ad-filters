@@ -90,3 +90,5 @@ saytruyen.net##.catfish
 ##a[href^="https://www.i9bet"]
 
 ##*[class~="-ads-"]
+##*[id^="ad_"]
+##*[id^="ad-"]
