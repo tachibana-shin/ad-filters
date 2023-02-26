@@ -92,3 +92,4 @@ saytruyen.net##.catfish
 ##*[class~="-ads-"]
 ##*[id^="ad_"]
 ##*[id^="ad-"]
+##*[id^="ads-"]
