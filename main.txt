@@ -45,8 +45,8 @@ nettruyenone.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > 
 nettruyenmoi.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.text-center.mrt5.mrb5:first-child
 gvnvh18.com###g207
 gvnvh18.com##g207
-truyenqqpro.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube:nth-child(2) > iframe
-truyenqqpro.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube
+truyenqqmoi.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube:nth-child(2) > iframe
+truyenqqtruyenqqmoimoi.com###chapter_content > div.chapter_content_div.chapter_new_load > div.chapter_content:nth-child(2) > div.text-center.youtube
 gvnvh18.com###contentme > a:nth-child(2)[href="https://tdtc.info"]
 animevietsub.tv##img.post-ratings-image
 vuighe.net###balloon
@@ -68,8 +68,8 @@ m.blogtruyen.vn##.qc-inner
 blogtruyen.vn##.qc-inner
 blogtruyen.vn###mfloat
 m.blogtruyen.vn###mfloat
-truyenqqpro.com###ads_mobile
-truyenqqpro.com##.mobile-banner
+truyenqqmoi.com###ads_mobile
+truyenqqmoi.com##.mobile-banner
 animevietsub.cc###invideo_wrapper
 animevietsub.cc##.Adss
 animevietsub.cc###mobile-catfixx
@@ -77,9 +77,9 @@ animevietsub.cc###mobile-catfixx
 ||augu3yhd485st.com*
 augu3yhd485st.com/*
 
-truyenqqpro.com###ads_info
+truyenqqmoi.com###ads_info
 
-truyenqqpro.com###page_999
+truyenqqmoi.com###page_999
 
 #saytruyen.net
 saytruyen.net##.c-ads
