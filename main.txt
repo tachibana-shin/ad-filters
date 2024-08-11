@@ -93,3 +93,7 @@ saytruyen.net##.catfish
 ##*[id^="ad_"]
 ##*[id^="ad-"]
 ##*[id^="ads-"]
+
+
+||ccypzigf.com
+##div.catfish-content
