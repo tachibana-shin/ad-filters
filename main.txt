@@ -99,3 +99,7 @@ saytruyen.net##.catfish
 ||kteaqpaqkowq.com
 
 ##div.catfish-content
+
+||ads^$script
+
+*/vki/*$script
