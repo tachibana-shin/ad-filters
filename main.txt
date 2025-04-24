@@ -103,3 +103,12 @@ saytruyen.net##.catfish
 ||ads^$script
 
 */vki/*$script
+
+||bundlemoviepumice.com
+||hentaivnx.net/js/clickadu.js$script
+||campfirecroutondecorator.com/bn.js$script
+hentaivnx.net##script[async]
+hentaivnx.net#%#document.querySelectorAll('script[async]').forEach(el => el.remove());
+hentaivnx.net##+js(abort-on-property-read, open)
+hentaivnx.net##+js(abort-on-property-write, window.open)
+hentaivnx.net##+js(abort-current-inline-script, open, window.open)
