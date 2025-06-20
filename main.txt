@@ -112,3 +112,5 @@ hentaivnx.net#%#document.querySelectorAll('script[async]').forEach(el => el.remo
 hentaivnx.net##+js(abort-on-property-read, open)
 hentaivnx.net##+js(abort-on-property-write, window.open)
 hentaivnx.net##+js(abort-current-inline-script, open, window.open)
+
+hentaivn.cx##.footer-banner-gwd
